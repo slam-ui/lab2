@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>user.png</file>  <!-- Путь относительно корня проекта -->
+        <file>lock.png</file>
+        <file>folder.png</file>
+    </qresource>
+</RCC>
